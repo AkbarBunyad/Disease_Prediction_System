@@ -8,7 +8,7 @@ Created on Sun Jan  7 23:02:34 2024
 import pickle
 import streamlit as st
 import sys
-sys.path.insert(1, r'C:\Users\user\anaconda3\envs\MachineLearning\Lib\site-packages')
+sys.path.insert(1, 'C:/Users/user/anaconda3/envs/MachineLearning/Lib/site-packages/streamlit_option_menu')
 from streamlit_option_menu import option_menu
 
 
